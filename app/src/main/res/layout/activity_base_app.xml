@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/base_coordinator"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f3f3f3"
+    android:orientation="vertical">
+
+    <!--  <RelativeLayout
+          android:id="@+id/base_header_layout_app"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:background="@color/yellow">
+
+          <LinearLayout
+              android:id="@+id/ll_home_back"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_centerVertical="true"
+              android:gravity="center"
+            >
+
+              <ImageView
+                  android:id="@+id/iv_base_left"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:foreground="?android:attr/selectableItemBackground"
+                  android:padding="5dp"
+                  android:src="@drawable/ico_nav_back" />
+          </LinearLayout>
+
+
+          <TextView
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_centerInParent="true"
+              android:gravity="center"
+              android:text="中惠旅资产管理系统"
+              android:textColor="@color/white"
+              android:textStyle="bold" />
+
+          <TextView
+              android:id="@+id/tv_header_right"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_alignParentRight="true"
+              android:layout_centerVertical="true"
+              android:layout_margin="8dp"
+              android:foreground="?android:attr/selectableItemBackground"
+              android:textColor="@color/white" />
+
+
+      </RelativeLayout>-->
+
+    <com.zhl.scanlable.wight.loadlayout.LoadLayout
+        android:id="@+id/base_content_layout_app"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>

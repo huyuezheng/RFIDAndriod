@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="90px"
+        android:background="@color/yellow"
+        android:gravity="center"
+        android:text="多个查询"
+        android:textColor="@color/white"
+        android:textSize="34px" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="90px"
+        android:layout_marginLeft="28px"
+        android:layout_marginTop="28px"
+        android:layout_marginRight="28px"
+        android:background="@color/white"
+        android:gravity="center"
+        android:visibility="gone">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="排序"
+            android:textColor="#666"
+            android:textSize="33px" />
+
+        <TextView
+            android:layout_width="1px"
+            android:layout_height="match_parent"
+            android:background="#ccc" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="6"
+            android:gravity="center"
+            android:text="ID"
+            android:textColor="#666"
+            android:textSize="33px" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_marginLeft="28px"
+        android:layout_marginRight="28px"
+        android:background="#ccc"
+        android:visibility="gone" />
+
+    <!--  <ListView
+          android:id="@+id/lv_pandian_list"
+          android:layout_width="match_parent"
+          android:layout_height="0dp"
+          android:layout_marginLeft="10px"
+          android:layout_marginTop="10px"
+          android:layout_marginRight="10px"
+          android:layout_weight="1"
+          android:background="@color/white"
+          android:divider="#ccc"
+          android:dividerHeight="1px">-->
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/lv_pandian_list"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginLeft="10px"
+        android:layout_marginTop="10px"
+        android:layout_marginRight="10px"
+        android:layout_weight="1"
+        android:background="@color/white">
+
+    </android.support.v7.widget.RecyclerView>
+
+    <TextView
+        android:id="@+id/tv_znum"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="28px"
+        android:text="总数: 0"
+        android:textColor="#333"
+        android:textSize="30px" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10px"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="60px">
+
+        <TextView
+            android:id="@+id/tv_pandian_bt"
+            android:layout_width="0dp"
+            android:layout_height="70px"
+            android:layout_gravity="center"
+            android:layout_weight="2"
+            android:background="@drawable/button_jihuo"
+            android:gravity="center"
+            android:text="开始扫描"
+            android:textColor="@color/white"
+            android:textSize="30px" />
+
+        <TextView
+            android:id="@+id/tv_pandian_pd"
+            android:layout_width="0dp"
+            android:layout_height="70px"
+            android:layout_gravity="center"
+            android:layout_marginLeft="30dp"
+            android:layout_weight="1"
+            android:background="@drawable/button_pandian"
+            android:gravity="center"
+            android:text="盘点"
+            android:textColor="@color/white"
+            android:textSize="30px" />
+    </LinearLayout>
+
+
+    <TextView
+        android:id="@+id/tv_pandian_cx"
+        android:layout_width="644px"
+        android:layout_height="70px"
+        android:layout_gravity="center"
+        android:layout_marginTop="40px"
+        android:layout_marginBottom="60px"
+        android:background="@drawable/button_jihuo"
+        android:gravity="center"
+        android:text="点击查询"
+        android:textColor="@color/white"
+        android:textSize="30px"
+        android:visibility="gone" />
+
+
+</LinearLayout>

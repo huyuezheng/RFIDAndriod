@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="90px"
+        android:background="@color/yellow"
+        android:gravity="center"
+        android:text="激活"
+        android:textColor="@color/white"
+        android:textSize="34px" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="90px"
+        android:layout_marginTop="28px"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:paddingLeft="28px">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="IFID"
+            android:textColor="#999"
+            android:textSize="28px" />
+
+        <TextView
+            android:id="@+id/tv_jihuo_ifid"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:textColor="#333"
+            android:textSize="30px" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="90px"
+        android:layout_marginTop="10px"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:paddingLeft="28px">
+
+        <ImageView
+            android:layout_width="20px"
+            android:layout_height="28px"
+            android:background="@color/yellow" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="6px"
+            android:layout_weight="1"
+            android:text="商品详情"
+            android:textColor="#333"
+            android:textSize="28px" />
+
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="#ededed" />
+
+    <LinearLayout
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="90px"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:paddingLeft="28px">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="商品区域"
+            android:textColor="#999"
+            android:textSize="28px" />
+
+        <Spinner
+            android:id="@+id/spiner"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:background="@color/white"
+            android:textColor="#333"
+            android:textSize="30px" />
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="#ededed" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="90px"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:paddingLeft="28px">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="一维码"
+            android:textColor="#999"
+            android:textSize="28px" />
+
+        <EditText
+            android:id="@+id/et_jihuo_ywm"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:background="@color/white"
+            android:hint="请输入(必填)"
+            android:textColor="#333"
+            android:textSize="30px" />
+
+        <TextView
+            android:id="@+id/tv_num"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="20px"
+            android:text="0"
+            android:textSize="24px" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_jihuo_bt"
+        android:layout_width="644px"
+        android:layout_height="70px"
+        android:layout_gravity="center"
+        android:layout_marginTop="28px"
+        android:background="@drawable/button_jihuo"
+        android:gravity="center"
+        android:text="激活"
+        android:textColor="@color/white"
+        android:textSize="30px" />
+
+
+</LinearLayout>

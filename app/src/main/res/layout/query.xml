@@ -1,0 +1,199 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:id="@+id/tag_real_linearLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/TextView_kb"
+        android:background="#EEEEEE"
+        android:orientation="vertical"
+        android:paddingTop="5sp" >
+
+        <HorizontalScrollView
+            android:id="@+id/tags_real_list_scroll_view"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginTop="5.0dp"
+            android:scrollbars="horizontal" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:id="@+id/tag_type"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@color/transparent_background" >
+
+                    <View
+                        android:layout_width="10.0sp"
+                        android:layout_height="30dp"
+                        android:background="#0bbbf7" />
+
+                    <TextView
+                        android:id="@+id/id_text"
+                        android:layout_width="50sp"
+                        android:layout_height="30dp"
+                        android:gravity="center_vertical|center_horizontal"
+                        android:padding="2sp"
+                        android:singleLine="true"
+                        android:text="ID"
+                        android:textColor="#ff444444"
+                        android:textSize="12sp"
+                        android:textStyle="bold" />
+
+                    <View
+                        android:layout_width="5dp"
+                        android:layout_height="match_parent"
+                        android:background="#BBBBBB" />
+
+                    <TextView
+                        android:id="@+id/epc_text"
+                        android:layout_width="280dp"
+                        android:layout_height="30dp"
+                        android:gravity="center"
+                        android:padding="2sp"
+                        android:singleLine="true"
+                        android:text="EPC"
+                        android:textColor="#ff333333"
+                        android:textSize="10sp"
+                        android:textStyle="bold" />
+
+                    <View
+                        android:layout_width="5dp"
+                        android:layout_height="match_parent"
+                        android:background="#BBBBBB" />
+
+                    <TextView
+                        android:id="@+id/times_text"
+                        android:layout_width="60dp"
+                        android:layout_height="30dp"
+                        android:gravity="center"
+                        android:padding="2sp"
+                        android:singleLine="true"
+                        android:text="@string/count"
+                        android:textColor="#ff333333"
+                        android:textSize="10sp"
+                        android:textStyle="bold" />
+
+                    <View
+                        android:layout_width="5dp"
+                        android:layout_height="match_parent"
+                        android:background="#BBBBBB" />
+
+                    <TextView
+                        android:id="@+id/rssi_text"
+                        android:layout_width="60dp"
+                        android:layout_height="30dp"
+                        android:gravity="center"
+                        android:padding="2sp"
+                        android:singleLine="true"
+                        android:text="RSSI"
+                        android:textColor="#ff333333"
+                        android:textSize="10sp"
+                        android:textStyle="bold" />
+
+                    <View
+                        android:layout_width="5dp"
+                        android:layout_height="match_parent"
+                        android:background="#BBBBBB" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1dip"
+                    android:background="#ff555555" />
+
+                <ListView
+                    android:id="@+id/tag_real_list_view"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:dividerHeight="0.0dip"
+                    android:fadingEdge="none"
+                    android:scrollbars="vertical"
+                    android:scrollingCache="false"
+                    android:transcriptMode="alwaysScroll" />
+            </LinearLayout>
+        </HorizontalScrollView>
+    </LinearLayout>
+   <RelativeLayout
+        android:id="@+id/relayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp" 
+        android:layout_above="@+id/scanlayout1">
+	<Spinner
+                android:id="@+id/mem_s"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:layout_centerVertical="true"
+                android:gravity="left" />
+
+        <TextView
+            android:id="@+id/separatedline"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="" />
+        
+    </RelativeLayout>
+    <TextView
+        android:id="@+id/TextView_kb"
+        android:layout_width="500dp"
+        android:layout_height="2dp"
+        android:layout_above="@+id/relayout1"
+        android:layout_centerHorizontal="true"
+        android:background="@color/divide"
+        android:visibility="gone" />
+
+    <RelativeLayout
+        android:id="@+id/scanlayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:padding="10dp" >
+
+        <TextView
+            android:id="@+id/num"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/tx_num"
+            android:text="@string/number"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/tx_num"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/button_scan"
+            android:text="0"
+            android:textColor="#cc0000"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/button_scan"
+            android:layout_width="150dp"
+            android:layout_height="60dp"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/color_button_selector"
+            android:gravity="center"
+            android:text="@string/scan" />
+
+        <CheckBox
+            android:id="@+id/checktid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/button_scan"
+            android:gravity="center"
+            android:text="@string/tid_query" />
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,365 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:2:1-110:12
+INJECTED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:2:1-110:12
+INJECTED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:2:1-110:12
+INJECTED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:2:1-110:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/d3fdd7afcf3063a683eb8e33738eba13/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/b2125a5ee5e8180e783de78d5f7a3a89/AndroidManifest.xml:17:1-28:12
+MERGED from [com.jwenfeng.pulltorefresh:library:1.0.3] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/library-1.0.3.aar/6a20506692af07ac15b0dc1589d49a2d/AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/47fa31d5c313c025a2ebd8178da289c5/AndroidManifest.xml:17:1-31:12
+MERGED from [org.zackratos:ultimatebar:1.1.1] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/ultimatebar-1.1.1.aar/d3d10326cc227caa0491fce5bc8880a0/AndroidManifest.xml:2:1-16:12
+MERGED from [com.lzy.net:okrx2:2.0.2] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/okrx2-2.0.2.aar/6fa0c8da4d06e28ed4f7c2a294b20008/AndroidManifest.xml:17:1-27:12
+MERGED from [com.lzy.net:okgo:3.0.4] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/okgo-3.0.4.aar/b1fa1dc5d25db787fb557d8b9eb764e5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.32] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/BaseRecyclerViewAdapterHelper-2.9.32.aar/0f2202a5b4d8edf32a492080036a1f7a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e584e71a7b4d3c0838a969dde80dc793/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/94a00b195fb7c2428744169061eb9caa/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ea688d78e1118d02f87f8a8ae1b0891d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/27a6408e2e8f30f010aeeb5b0a784c08/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/52a731ed68417a84867df373db69f587/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c818651a1c6e9a14bb6203d952f97098/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/39f6e675558328f00b29028274da6f97/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7995fc140db0387064ae53a930606a8/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ecb2bab4695f2511365e630f3aa71cca/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:2:1-110:12
+INJECTED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:2:1-110:12
+INJECTED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:2:1-110:12
+	package
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:8:5-67
+MERGED from [com.lzy.net:okgo:3.0.4] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/okgo-3.0.4.aar/b1fa1dc5d25db787fb557d8b9eb764e5/AndroidManifest.xml:26:5-67
+MERGED from [com.lzy.net:okgo:3.0.4] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/okgo-3.0.4.aar/b1fa1dc5d25db787fb557d8b9eb764e5/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:10:22-73
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:13:22-72
+uses-permission#android.permission.READ_LOGS
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:14:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:15:5-81
+MERGED from [com.lzy.net:okgo:3.0.4] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/okgo-3.0.4.aar/b1fa1dc5d25db787fb557d8b9eb764e5/AndroidManifest.xml:28:5-81
+MERGED from [com.lzy.net:okgo:3.0.4] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/okgo-3.0.4.aar/b1fa1dc5d25db787fb557d8b9eb764e5/AndroidManifest.xml:28:5-81
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:15:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:16:5-84
+MERGED from [com.lzy.net:okgo:3.0.4] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/okgo-3.0.4.aar/b1fa1dc5d25db787fb557d8b9eb764e5/AndroidManifest.xml:29:5-84
+MERGED from [com.lzy.net:okgo:3.0.4] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/okgo-3.0.4.aar/b1fa1dc5d25db787fb557d8b9eb764e5/AndroidManifest.xml:29:5-84
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:16:22-81
+uses-permission#android.permission.CAMERA
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:17:5-65
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:17:22-62
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:18:22-76
+uses-permission#android.permission.GET_TASKS
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:19:22-65
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:20:5-80
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:20:22-77
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:21:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:22:5-71
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:22:22-68
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:23:5-66
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:23:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:24:22-65
+uses-sdk
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:27:5-29:41
+INJECTED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:27:5-29:41
+INJECTED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:27:5-29:41
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/d3fdd7afcf3063a683eb8e33738eba13/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/d3fdd7afcf3063a683eb8e33738eba13/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/b2125a5ee5e8180e783de78d5f7a3a89/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/b2125a5ee5e8180e783de78d5f7a3a89/AndroidManifest.xml:20:5-44
+MERGED from [com.jwenfeng.pulltorefresh:library:1.0.3] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/library-1.0.3.aar/6a20506692af07ac15b0dc1589d49a2d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.jwenfeng.pulltorefresh:library:1.0.3] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/library-1.0.3.aar/6a20506692af07ac15b0dc1589d49a2d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/47fa31d5c313c025a2ebd8178da289c5/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/47fa31d5c313c025a2ebd8178da289c5/AndroidManifest.xml:21:5-23:78
+MERGED from [org.zackratos:ultimatebar:1.1.1] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/ultimatebar-1.1.1.aar/d3d10326cc227caa0491fce5bc8880a0/AndroidManifest.xml:7:5-9:41
+MERGED from [org.zackratos:ultimatebar:1.1.1] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/ultimatebar-1.1.1.aar/d3d10326cc227caa0491fce5bc8880a0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.lzy.net:okrx2:2.0.2] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/okrx2-2.0.2.aar/6fa0c8da4d06e28ed4f7c2a294b20008/AndroidManifest.xml:23:5-25:41
+MERGED from [com.lzy.net:okrx2:2.0.2] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/okrx2-2.0.2.aar/6fa0c8da4d06e28ed4f7c2a294b20008/AndroidManifest.xml:23:5-25:41
+MERGED from [com.lzy.net:okgo:3.0.4] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/okgo-3.0.4.aar/b1fa1dc5d25db787fb557d8b9eb764e5/AndroidManifest.xml:22:5-24:41
+MERGED from [com.lzy.net:okgo:3.0.4] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/okgo-3.0.4.aar/b1fa1dc5d25db787fb557d8b9eb764e5/AndroidManifest.xml:22:5-24:41
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.32] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/BaseRecyclerViewAdapterHelper-2.9.32.aar/0f2202a5b4d8edf32a492080036a1f7a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.32] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/BaseRecyclerViewAdapterHelper-2.9.32.aar/0f2202a5b4d8edf32a492080036a1f7a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e584e71a7b4d3c0838a969dde80dc793/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e584e71a7b4d3c0838a969dde80dc793/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/94a00b195fb7c2428744169061eb9caa/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/94a00b195fb7c2428744169061eb9caa/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ea688d78e1118d02f87f8a8ae1b0891d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ea688d78e1118d02f87f8a8ae1b0891d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/27a6408e2e8f30f010aeeb5b0a784c08/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/27a6408e2e8f30f010aeeb5b0a784c08/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/52a731ed68417a84867df373db69f587/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/52a731ed68417a84867df373db69f587/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c818651a1c6e9a14bb6203d952f97098/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c818651a1c6e9a14bb6203d952f97098/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/39f6e675558328f00b29028274da6f97/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/39f6e675558328f00b29028274da6f97/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7995fc140db0387064ae53a930606a8/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7995fc140db0387064ae53a930606a8/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ecb2bab4695f2511365e630f3aa71cca/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ecb2bab4695f2511365e630f3aa71cca/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:27:5-29:41
+INJECTED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:27:5-29:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/47fa31d5c313c025a2ebd8178da289c5/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:29:9-38
+		INJECTED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:28:9-34
+		INJECTED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:31:5-108:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/b2125a5ee5e8180e783de78d5f7a3a89/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/b2125a5ee5e8180e783de78d5f7a3a89/AndroidManifest.xml:22:5-26:19
+MERGED from [com.jwenfeng.pulltorefresh:library:1.0.3] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/library-1.0.3.aar/6a20506692af07ac15b0dc1589d49a2d/AndroidManifest.xml:11:5-15:19
+MERGED from [com.jwenfeng.pulltorefresh:library:1.0.3] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/library-1.0.3.aar/6a20506692af07ac15b0dc1589d49a2d/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/47fa31d5c313c025a2ebd8178da289c5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/47fa31d5c313c025a2ebd8178da289c5/AndroidManifest.xml:25:5-29:19
+MERGED from [org.zackratos:ultimatebar:1.1.1] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/ultimatebar-1.1.1.aar/d3d10326cc227caa0491fce5bc8880a0/AndroidManifest.xml:11:5-14:19
+MERGED from [org.zackratos:ultimatebar:1.1.1] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/ultimatebar-1.1.1.aar/d3d10326cc227caa0491fce5bc8880a0/AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e584e71a7b4d3c0838a969dde80dc793/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e584e71a7b4d3c0838a969dde80dc793/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/94a00b195fb7c2428744169061eb9caa/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/94a00b195fb7c2428744169061eb9caa/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ea688d78e1118d02f87f8a8ae1b0891d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ea688d78e1118d02f87f8a8ae1b0891d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/27a6408e2e8f30f010aeeb5b0a784c08/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/27a6408e2e8f30f010aeeb5b0a784c08/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/52a731ed68417a84867df373db69f587/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/52a731ed68417a84867df373db69f587/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c818651a1c6e9a14bb6203d952f97098/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c818651a1c6e9a14bb6203d952f97098/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/39f6e675558328f00b29028274da6f97/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/39f6e675558328f00b29028274da6f97/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7995fc140db0387064ae53a930606a8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7995fc140db0387064ae53a930606a8/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ecb2bab4695f2511365e630f3aa71cca/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ecb2bab4695f2511365e630f3aa71cca/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:36:9-35
+	android:label
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:35:9-41
+	android:icon
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:34:9-45
+	android:allowBackup
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:33:9-35
+	android:theme
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:38:9-56
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:32:9-42
+activity#com.zhl.scanlable.view.FlashActivity
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:39:9-46:20
+	android:screenOrientation
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:41:13-49
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:40:13-64
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:42:13-45:29
+action#android.intent.action.MAIN
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:43:17-69
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:44:27-74
+activity#com.zhl.scanlable.view.HomeActivity
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:48:9-50:52
+	android:screenOrientation
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:50:13-49
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:49:13-63
+activity#com.zhl.scanlable.view.JihuoActivity
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:52:9-54:52
+	android:screenOrientation
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:54:13-49
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:53:13-64
+activity#com.zhl.scanlable.MainActivity
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:56:9-67
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:56:19-64
+activity#com.zhl.scanlable.ScanView
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:57:9-72
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:57:19-60
+activity#com.zhl.scanlable.ScanMode
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:58:9-72
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:58:19-60
+activity#com.zhl.scanlable.ScanModeGroup
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:59:9-77
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:59:19-65
+activity#com.zhl.scanlable.ReadWriteActivity
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:60:9-81
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:60:19-69
+service#com.zhl.scanlable.StartService
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:63:9-66
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:63:18-63
+activity#com.zhl.scanlable.view.DetailsActivity
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:65:9-67:52
+	android:screenOrientation
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:67:13-49
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:66:13-49
+activity#com.zhl.scanlable.view.PanDianActivity
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:68:9-70:52
+	android:screenOrientation
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:70:13-49
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:69:13-49
+activity#com.zhl.scanlable.view.SettingActivity
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:71:9-73:52
+	android:screenOrientation
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:73:13-49
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:72:13-49
+activity#com.zhl.scanlable.view.GoodsListActivity
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:74:9-76:52
+	android:screenOrientation
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:76:13-49
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:75:13-51
+activity#com.zhl.scanlable.view.FoundActivity
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:77:9-79:52
+	android:screenOrientation
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:79:13-49
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:78:13-47
+activity#com.zhl.scanlable.view.FoundHomeActivity
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:80:9-82:52
+	android:screenOrientation
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:82:13-49
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:81:13-51
+activity#com.zhl.scanlable.view.PDActivity
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:83:9-85:52
+	android:screenOrientation
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:85:13-49
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:84:13-44
+activity#com.zhl.scanlable.view.PDDetailActivity
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:86:9-88:52
+	android:screenOrientation
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:88:13-49
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:87:13-50
+activity#com.zhl.scanlable.view.NewPDActivity
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:89:9-91:52
+	android:screenOrientation
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:91:13-49
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:90:13-47
+activity#com.zhl.scanlable.view.PDTongJiActivity
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:92:9-94:52
+	android:screenOrientation
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:94:13-49
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:93:13-50
+activity#com.zhl.scanlable.view.AllPDActivity
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:95:9-97:52
+	android:screenOrientation
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:97:13-49
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:96:13-47
+activity#com.zhl.scanlable.view.BuMenPDActivity
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:99:9-101:52
+	android:screenOrientation
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:101:13-49
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:100:13-49
+activity#com.zhl.scanlable.view.LSDPDActivity
+ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:103:9-105:52
+	android:screenOrientation
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:105:13-49
+	android:name
+		ADDED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:104:13-47
+meta-data#android.support.VERSION
+ADDED from [com.android.support:recyclerview-v7:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/b2125a5ee5e8180e783de78d5f7a3a89/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/47fa31d5c313c025a2ebd8178da289c5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/47fa31d5c313c025a2ebd8178da289c5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e584e71a7b4d3c0838a969dde80dc793/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e584e71a7b4d3c0838a969dde80dc793/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/94a00b195fb7c2428744169061eb9caa/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/94a00b195fb7c2428744169061eb9caa/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ea688d78e1118d02f87f8a8ae1b0891d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ea688d78e1118d02f87f8a8ae1b0891d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/27a6408e2e8f30f010aeeb5b0a784c08/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/27a6408e2e8f30f010aeeb5b0a784c08/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/52a731ed68417a84867df373db69f587/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/52a731ed68417a84867df373db69f587/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c818651a1c6e9a14bb6203d952f97098/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c818651a1c6e9a14bb6203d952f97098/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/39f6e675558328f00b29028274da6f97/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/39f6e675558328f00b29028274da6f97/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7995fc140db0387064ae53a930606a8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7995fc140db0387064ae53a930606a8/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:recyclerview-v7:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/b2125a5ee5e8180e783de78d5f7a3a89/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:recyclerview-v7:26.1.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/b2125a5ee5e8180e783de78d5f7a3a89/AndroidManifest.xml:24:13-51
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.lzy.net:okgo:3.0.4] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/okgo-3.0.4.aar/b1fa1dc5d25db787fb557d8b9eb764e5/AndroidManifest.xml:27:5-80
+IMPLIED from /Users/mengfanguang/Documents/android/UHFR2000_for_studio/app/src/main/AndroidManifest.xml:2:1-110:12 reason: com.lzy.okgo requested WRITE_EXTERNAL_STORAGE
+	android:name
+		ADDED from [com.lzy.net:okgo:3.0.4] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/okgo-3.0.4.aar/b1fa1dc5d25db787fb557d8b9eb764e5/AndroidManifest.xml:27:22-77
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ecb2bab4695f2511365e630f3aa71cca/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ecb2bab4695f2511365e630f3aa71cca/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/mengfanguang/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ecb2bab4695f2511365e630f3aa71cca/AndroidManifest.xml:26:13-58

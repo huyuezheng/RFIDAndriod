@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="90px"
+        android:background="@color/yellow"
+        android:gravity="center"
+        android:text="盘点"
+        android:textColor="@color/white"
+        android:textSize="34px" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tv_zclx"
+            android:layout_width="0dp"
+            android:layout_height="90px"
+            android:layout_weight="1"
+            android:drawableRight="@drawable/right"
+            android:gravity="center_vertical"
+            android:paddingLeft="30px"
+            android:paddingRight="30px"
+            android:text="请选择资产类型"
+            android:textColor="#ff999999"
+            android:textSize="30px" />
+
+        <TextView
+            android:id="@+id/tv_ck"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawableRight="@drawable/right"
+            android:gravity="center_vertical"
+            android:paddingLeft="30px"
+            android:paddingRight="30px"
+            android:text="请选择仓库"
+            android:textColor="#ff999999"
+            android:textSize="30px" />
+    </LinearLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/lv_pandian_list"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginLeft="10px"
+        android:layout_marginTop="10px"
+        android:layout_marginRight="10px"
+        android:layout_weight="1"
+        android:background="@color/white">
+
+    </android.support.v7.widget.RecyclerView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="30px"
+        android:layout_marginTop="20px"
+        android:layout_marginRight="30px"
+        android:layout_marginBottom="20px">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="总数"
+            android:textColor="#333"
+            android:textSize="30px" />
+
+        <TextView
+            android:id="@+id/tv_znum"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:text="0"
+            android:textColor="#fffcc02e"
+            android:textSize="38px" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="库存总数"
+            android:textColor="#333"
+            android:textSize="30px" />
+
+        <TextView
+            android:id="@+id/tv_kczs"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:text="0"
+            android:textColor="#fffcc02e"
+            android:textSize="38px" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10px"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="60px">
+
+        <TextView
+            android:id="@+id/tv_pandian_bt"
+            android:layout_width="0dp"
+            android:layout_height="70px"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@drawable/button_jihuo"
+            android:gravity="center"
+            android:text="开始扫描"
+            android:textColor="@color/white"
+            android:textSize="30px" />
+
+        <TextView
+            android:id="@+id/tv_pandian_cxkc"
+            android:layout_width="0dp"
+            android:layout_height="70px"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/button_jihuo"
+            android:gravity="center"
+            android:text="查询库存"
+            android:textColor="@color/white"
+            android:textSize="30px" />
+
+        <TextView
+            android:id="@+id/tv_pandian_pd"
+            android:layout_width="0dp"
+            android:layout_height="70px"
+            android:layout_gravity="center"
+            android:layout_marginLeft="20dp"
+            android:layout_weight="1"
+            android:background="@drawable/button_pandian"
+            android:gravity="center"
+            android:text="盘点"
+            android:textColor="@color/white"
+            android:textSize="30px" />
+    </LinearLayout>
+
+
+    <TextView
+        android:id="@+id/tv_pandian_cx"
+        android:layout_width="644px"
+        android:layout_height="70px"
+        android:layout_gravity="center"
+        android:layout_marginTop="40px"
+        android:layout_marginBottom="60px"
+        android:background="@drawable/button_jihuo"
+        android:gravity="center"
+        android:text="点击查询"
+        android:textColor="@color/white"
+        android:textSize="30px"
+        android:visibility="gone" />
+
+
+</LinearLayout>
